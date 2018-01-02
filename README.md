@@ -1,3 +1,3 @@
-# Tutorial
+# Hello
 
-This is my tutorial repository.
+This repository contains my answers for Yazılım Maratonu 2017 held by IEEE İTÜ.
